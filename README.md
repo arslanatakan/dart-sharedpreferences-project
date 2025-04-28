@@ -1,4 +1,10 @@
 # dart-sharedpreferences-project
+Bu proje, Erciyes Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü öğrencisi Atakan Arslan tarafından, Mobile Application Development dersi kapsamında geliştirilmiştir.
+Uygulamanın temel amacı, SharedPreferences ile kullanıcı kaydetmedir.
+
+
+
+
 1030520985 Atakan Arslan - Mobile Application Development Ödevi
 
 
